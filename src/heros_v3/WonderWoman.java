@@ -1,6 +1,6 @@
 package heros_v3;
 
-public class WonderWoman extends Superhero implements Flyable {
+class WonderWoman extends Superhero implements Flyable {
 
     WonderWoman(String name){
         super(name);

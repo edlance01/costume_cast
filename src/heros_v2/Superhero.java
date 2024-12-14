@@ -1,13 +1,13 @@
 package heros_v2;
 
-public abstract class Superhero {
+abstract class Superhero {
     private final String name;
 
     Superhero(String _name){
         this.name = _name;
     }
 
-    public String getName() {
+    String getName() {
         return name;
     }
 

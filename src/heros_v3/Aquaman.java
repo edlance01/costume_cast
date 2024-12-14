@@ -1,6 +1,6 @@
 package heros_v3;
 
-public class Aquaman extends Superhero {
+class Aquaman extends Superhero {
 
     Aquaman(String name){
         super(name);

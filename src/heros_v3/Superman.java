@@ -1,6 +1,6 @@
 package heros_v3;
 
-public class Superman extends Superhero implements Flyable {
+class Superman extends Superhero implements Flyable {
 
     Superman(String name){
         super(name);

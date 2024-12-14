@@ -2,7 +2,7 @@ package heros_v1;
 
 
 
-public class Superman implements Superhero {
+class Superman implements Superhero {
 
 
     @Override

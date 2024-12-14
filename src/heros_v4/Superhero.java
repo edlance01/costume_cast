@@ -2,7 +2,7 @@ package heros_v4;
 
 import heros_v4.utils.Training;
 
-public abstract class Superhero {
+abstract class Superhero {
     private final String name;
 
     Superhero(String _name){

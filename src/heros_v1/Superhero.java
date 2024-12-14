@@ -1,7 +1,7 @@
 package heros_v1;
 
-public interface Superhero {
+interface Superhero {
 
-    abstract void useSuperPower();
+    void useSuperPower();
 
 }

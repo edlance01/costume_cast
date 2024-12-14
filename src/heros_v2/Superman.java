@@ -1,6 +1,6 @@
 package heros_v2;
 
-public class Superman extends Superhero {
+class Superman extends Superhero {
 
     Superman(String name){
         super(name);

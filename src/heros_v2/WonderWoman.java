@@ -1,6 +1,6 @@
 package heros_v2;
 
-public class WonderWoman extends Superhero {
+class WonderWoman extends Superhero {
 
     WonderWoman(String name){
         super(name);

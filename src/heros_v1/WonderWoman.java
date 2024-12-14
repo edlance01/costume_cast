@@ -1,6 +1,6 @@
 package heros_v1;
 
-public class WonderWoman implements Superhero{
+class WonderWoman implements Superhero{
 
 
     @Override

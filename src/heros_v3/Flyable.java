@@ -1,6 +1,6 @@
 package heros_v3;
 
-public interface Flyable {
+interface Flyable {
 
     void fly();
 }
