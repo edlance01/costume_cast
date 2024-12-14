@@ -16,10 +16,10 @@ A. We can only extend one class, even if it's abstract but we can implement many
 
 Q. What if they all do it, AND, they all do it the same? Where does common behavior, i.e. rest, go?  
     - Remember, objects are about responsibility.
-    - We don't want redundancy, that's bad.
+    - We don't want redundancy, that's bad.  
 A. IF they all do it, AND they all do it the same.  Use a common method in the supertype.
 
-**Q. What if only some of them do it?**
-  **- Maybe just have an null or nonsensical method?**
-**A. Put a specific interface over the classes that need to implement the new responsibility.**
+**Q. What if only some of them do it?**  
+  **- Maybe just have an null or nonsensical method?**  
+**A. Put a specific interface over the classes that need to implement the new responsibility.**  
 
